@@ -1,5 +1,6 @@
 package main.com.example.designpattern.Observer.demo01.abstract_;
 
+
 import main.com.example.designpattern.Observer.demo01.Subject;
 
 public class HexaObserver extends Observer {
